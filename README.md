@@ -1,4 +1,4 @@
-# SageMaker Notebooks
+# ML for Sales & Marketing
 
 These notebooks provide some ideas to apply Machine Learning for Sales & Marketing Dataset
 
